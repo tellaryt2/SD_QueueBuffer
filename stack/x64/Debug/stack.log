@@ -1,0 +1,13 @@
+﻿  QueueTwoStack.cpp
+  Stack.cpp
+C:\Users\minne\source\repos\stack\stack\Stack.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  main.cpp
+C:\Users\minne\source\repos\stack\stack\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\RingBuffer.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\QueueOnRingBuffer.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\main.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\minne\source\repos\stack\stack\main.cpp(292,8): warning C4101: element: неиспользованная локальная переменная
+  Создание кода...
+  stack.vcxproj -> C:\Users\minne\source\repos\stack\x64\Debug\stack.exe
